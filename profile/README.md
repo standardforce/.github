@@ -33,6 +33,7 @@ We standardize construction-industry customs and workflows to cut waste and opti
 | **[Stance](https://standardforce.jp/stance-feature/)** | Sales / inventory ERP for building-materials distributors |
 | **[NOGAZO](https://standardforce.jp/)** | Skills-transfer education app (brain-science based) |
 | **[COMACHi](https://standardforce.jp/comachi/)** | Next-gen AI for construction-industry work support |
+| **COMACHi SFA** | Sales-force automation for building-materials new-business (pipeline, visits, AI assist) |
 | **[InfraPulse](https://standardforce.jp/infrapulse/)** | Construction / maintenance management platform |
 | **[AvCheck](https://standardforce.jp/avcheck/)** | Security / antivirus check tooling |
 | **HG Consulting** | DX consulting for building-material retailers |
@@ -55,7 +56,7 @@ We standardize construction-industry customs and workflows to cut waste and opti
 | **SF Control** | Infra monitoring for Node apps on Linux (systemd) |
 | **Centralised MySQL Manager** | Run one SQL across many MySQL hosts (SSH tunnels) |
 | **soumu.pro** | HR evaluation / bonus / raise web app (client: LTU) |
-| **Custom solutions** | Bespoke macros, invoices, SFA, and other client tools |
+| **Custom solutions** | Bespoke macros, invoices, and other client tools |
 
 ### Vision
 
@@ -102,6 +103,7 @@ Empower wood / building-material distributors and small builders (“midstream�
 | **[Stance](https://standardforce.jp/stance-feature/)** | 建材流通向け販売・在庫管理ERP |
 | **[NOGAZO](https://standardforce.jp/)** | 脳科学アルゴリズムを用いた技能伝承教育アプリ |
 | **[COMACHi](https://standardforce.jp/comachi/)** | 建築業界向け次世代AI業務支援 |
+| **COMACHi SFA** | 建材新規開拓向け営業支援（案件・訪問・AIアシスタント） |
 | **[InfraPulse](https://standardforce.jp/infrapulse/)** | 建設・メンテナンス管理プラットフォーム |
 | **[AvCheck](https://standardforce.jp/avcheck/)** | セキュリティ／ウイルス対策チェック |
 | **HG Consulting** | 建材小売のDXコンサルティング |
@@ -124,7 +126,7 @@ Empower wood / building-material distributors and small builders (“midstream�
 | **SF Control** | Linux上Nodeアプリのインフラ監視 |
 | **Centralised MySQL Manager** | 複数MySQLへ一括SQL実行（SSHトンネル対応） |
 | **soumu.pro** | 人事考課（評価・賞与・昇給）Web（クライアント：LTU） |
-| **カスタム開発** | 請求マクロ、SFA、その他オーダーメイド |
+| **カスタム開発** | 請求マクロ、その他オーダーメイド |
 
 ### ビジョン
 
