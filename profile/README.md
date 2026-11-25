@@ -35,7 +35,7 @@ We standardize construction-industry customs and workflows to cut waste and opti
 | **[COMACHi](https://standardforce.jp/comachi/)** | Next-gen AI for construction-industry work support |
 | **COMACHi SFA** | Sales-force automation for building-materials new-business (pipeline, visits, AI assist) |
 | **[InfraPulse](https://standardforce.jp/infrapulse/)** | Construction / maintenance management platform |
-| **[AvCheck](https://standardforce.jp/avcheck/)** | Security / antivirus check tooling |
+| **[AvCheck](https://standardforce.jp/avcheck/)** | Seismic design calculation tool (building earthquake resistance) |
 | **HG Consulting** | DX consulting for building-material retailers |
 
 ### Tools & platforms (from our repos)
@@ -105,7 +105,7 @@ Empower wood / building-material distributors and small builders (“midstream�
 | **[COMACHi](https://standardforce.jp/comachi/)** | 建築業界向け次世代AI業務支援 |
 | **COMACHi SFA** | 建材新規開拓向け営業支援（案件・訪問・AIアシスタント） |
 | **[InfraPulse](https://standardforce.jp/infrapulse/)** | 建設・メンテナンス管理プラットフォーム |
-| **[AvCheck](https://standardforce.jp/avcheck/)** | セキュリティ／ウイルス対策チェック |
+| **[AvCheck](https://standardforce.jp/avcheck/)** | 耐震設計・耐震計算ツール |
 | **HG Consulting** | 建材小売のDXコンサルティング |
 
 ### ツール・プラットフォーム（リポジトリより）
