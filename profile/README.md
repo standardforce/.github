@@ -26,17 +26,36 @@ We standardize construction-industry customs and workflows to cut waste and opti
   </tr>
 </table>
 
-### Products
+### Core products
 
 | Product | One-liner |
 | --- | --- |
 | **[Stance](https://standardforce.jp/stance-feature/)** | Sales / inventory ERP for building-materials distributors |
 | **[NOGAZO](https://standardforce.jp/)** | Skills-transfer education app (brain-science based) |
 | **[COMACHi](https://standardforce.jp/comachi/)** | Next-gen AI for construction-industry work support |
-| **[InfraPulse](https://standardforce.jp/infrapulse/)** | Infrastructure monitoring & ops |
+| **[InfraPulse](https://standardforce.jp/infrapulse/)** | Construction / maintenance management platform |
 | **[AvCheck](https://standardforce.jp/avcheck/)** | Security / antivirus check tooling |
 | **HG Consulting** | DX consulting for building-material retailers |
-| **Custom solutions** | Bespoke tools for construction clients |
+
+### Tools & platforms (from our repos)
+
+| Product | One-liner |
+| --- | --- |
+| **YOSORO** | AI work assistant (web + iOS) |
+| **Sumamo Invoice** | Quote & invoice portal for smart-module / moving houses |
+| **Stance Dashboard** | Sales / inventory / finance analytics for Stance |
+| **Stance Master Overdrive** | Manufacturer product-master ingest + search for Stance |
+| **DB2Chat / Data Messenger** | Poll MySQL → notify Direct4B, LINE WORKS, Chatwork, etc. |
+| **Data Transfer Tool** | Scheduled / on-demand DB-to-DB transfers |
+| **現地調査アプリ (gencho.ai)** | Site-survey + field cut-instruction PWA for remodeling |
+| **発注書PDF→CSV** | AI OCR: purchase-order PDF → editable CSV |
+| **Dynamic Pricing** | Recommended nightly rates for vacation-rental listings |
+| **QR Code Scanner** | Scan QR → shelf / matter lookup + redirect |
+| **Murachi Price Tools** | Price lookup / data tools for distributor workflows |
+| **SF Control** | Infra monitoring for Node apps on Linux (systemd) |
+| **Centralised MySQL Manager** | Run one SQL across many MySQL hosts (SSH tunnels) |
+| **soumu.pro** | HR evaluation / bonus / raise web app (client: LTU) |
+| **Custom solutions** | Bespoke macros, invoices, SFA, and other client tools |
 
 ### Vision
 
@@ -76,17 +95,36 @@ Empower wood / building-material distributors and small builders (“midstream�
   </tr>
 </table>
 
-### プロダクト
+### コアプロダクト
 
 | プロダクト | 概要 |
 | --- | --- |
 | **[Stance](https://standardforce.jp/stance-feature/)** | 建材流通向け販売・在庫管理ERP |
 | **[NOGAZO](https://standardforce.jp/)** | 脳科学アルゴリズムを用いた技能伝承教育アプリ |
 | **[COMACHi](https://standardforce.jp/comachi/)** | 建築業界向け次世代AI業務支援 |
-| **[InfraPulse](https://standardforce.jp/infrapulse/)** | インフラ監視・運用 |
+| **[InfraPulse](https://standardforce.jp/infrapulse/)** | 建設・メンテナンス管理プラットフォーム |
 | **[AvCheck](https://standardforce.jp/avcheck/)** | セキュリティ／ウイルス対策チェック |
 | **HG Consulting** | 建材小売のDXコンサルティング |
-| **カスタム開発** | 建築業界向けオーダーメイドツール |
+
+### ツール・プラットフォーム（リポジトリより）
+
+| プロダクト | 概要 |
+| --- | --- |
+| **YOSORO** | AI業務アシスタント（Web + iOS） |
+| **スマモ見積・請求** | スマートモジュール／ムービングハウスの見積・請求ポータル |
+| **Stance Dashboard** | Stance向け売上・在庫・財務分析ダッシュボード |
+| **Stance 商品マスタ統合** | メーカー商品マスタ取込＋Stance見積検索の補完基盤 |
+| **DB2Chat / Data Messenger** | MySQLポーリング → Direct4B / LINE WORKS / Chatwork 等へ通知 |
+| **Data Transfer Tool** | DB間データ転送の監視・手動実行 |
+| **現地調査アプリ (gencho.ai)** | リフォーム現地調査・外装板カット指示PWA |
+| **発注書PDF→CSV** | 発注書PDFをAIで読み取りCSV化 |
+| **ダイナミックプライシング** | 民泊向け推奨料金算出・管理 |
+| **QR Code Scanner** | QR読取 → 棚番／案件照会・リダイレクト |
+| **村地さん価格ツール** | 価格照会・データ加工ツール |
+| **SF Control** | Linux上Nodeアプリのインフラ監視 |
+| **Centralised MySQL Manager** | 複数MySQLへ一括SQL実行（SSHトンネル対応） |
+| **soumu.pro** | 人事考課（評価・賞与・昇給）Web（クライアント：LTU） |
+| **カスタム開発** | 請求マクロ、SFA、その他オーダーメイド |
 
 ### ビジョン
 
