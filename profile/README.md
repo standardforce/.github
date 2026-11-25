@@ -1,71 +1,106 @@
-# Standard Force Co., Ltd. (スタンダードフォース株式会社) 🏢
+# Standard Force Co., Ltd. / スタンダードフォース株式会社
 
-**✨ Maximize customer benefits through the power of standardization ✨**
+**Maximize customer benefits through the power of standardization**  
+**標準化の力で、顧客利益を最大化する**
 
----
-
-👋 Welcome to the official GitHub organization for **Standard Force Co., Ltd.**! We are a technology startup based in **Ōmura, Nagasaki, Japan 🇯🇵**, established in September 2018.
-
-Our mission is to bring **total optimization to the construction industry 🏗️** by standardizing diverse customs and tackling inefficiencies through innovative software solutions.
+**[English](#-english) | [日本語](#-日本語)**
 
 ---
 
-## 🎯 Our Focus & Products
+## 🇬🇧 English
 
-We develop systems grounded in unique algorithms and built by engineers with deep industry familiarity. Our goal is to achieve overall optimization for all stakeholders in the construction value chain.
+Technology company in **Ōmura, Nagasaki, Japan**. Founded **September 2018**.  
+We standardize construction-industry customs and workflows to cut waste and optimize the whole value chain.
 
-* **Stance (スタンス) 📊:**
-    * A specialized sales management system (ERP) for building materials distributors.
-    * Enables centralization of business data, solving key industry challenges.
+### Leadership
 
-* **NOGAZO (ノガゾー) 🧠:**
-    * An innovative educational app using brain science algorithms.
-    * Effectively transfers craftsman know-how and product knowledge, promoting Digital Transformation (DX) in skills.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gaku00010001">
+        <img src="https://github.com/gaku00010001.png?size=100" width="100" height="100" alt="Gaku Harada" style="border-radius:50%;" />
+      </a><br />
+      <b><a href="https://github.com/gaku00010001">Gaku Harada</a></b><br />
+      <sub>President & CEO<br />原田 岳</sub>
+    </td>
+  </tr>
+</table>
 
-* **HG Consulting 💡:**
-    * Consulting services to guide building material retailers on their DX journey.
-    * Includes sharing expertise and developing digital solutions like websites.
+### Products
 
-* **Custom Solutions 🛠️:**
-    * Beyond our standard products, we also develop **bespoke software tools and solutions** tailored to specific client requirements within the construction industry.
----
+| Product | One-liner |
+| --- | --- |
+| **[Stance](https://standardforce.jp/stance-feature/)** | Sales / inventory ERP for building-materials distributors |
+| **[NOGAZO](https://standardforce.jp/)** | Skills-transfer education app (brain-science based) |
+| **[COMACHi](https://standardforce.jp/comachi/)** | Next-gen AI for construction-industry work support |
+| **[InfraPulse](https://standardforce.jp/infrapulse/)** | Infrastructure monitoring & ops |
+| **[AvCheck](https://standardforce.jp/avcheck/)** | Security / antivirus check tooling |
+| **HG Consulting** | DX consulting for building-material retailers |
+| **Custom solutions** | Bespoke tools for construction clients |
 
-## 🚀 Our Vision
+### Vision
 
-We aim to empower the "midstream" – wood building material distributors and small/medium construction companies – ultimately contributing to **comfortable, fair-value housing for consumers 🏠**.
+Empower wood / building-material distributors and small builders (“midstream”), so end customers get fair-value, comfortable housing.
 
-We actively collaborate with industry bodies like the **Japan Housing Area Revitalization Council** and engage with future trends like the **physical internet** to drive industry development.
+### Team
 
----
+<a href="https://github.com/gaku00010001" title="Gaku Harada"><img src="https://github.com/gaku00010001.png?size=60" width="60" height="60" alt="gaku00010001" style="border-radius:50%; margin:8px;" /></a>
+<a href="https://github.com/i-m-abbhay" title="i-m-abbhay"><img src="https://github.com/i-m-abbhay.png?size=60" width="60" height="60" alt="i-m-abbhay" style="border-radius:50%; margin:8px;" /></a>
+<a href="https://github.com/ShivankarMehta" title="ShivankarMehta"><img src="https://github.com/ShivankarMehta.png?size=60" width="60" height="60" alt="ShivankarMehta" style="border-radius:50%; margin:8px;" /></a>
 
-## 🌐 Website Preview
+### Connect
 
-
-[![Standard Force Website Landing Page](https://github.com/user-attachments/assets/422a2042-b0b1-4ae6-aa6a-98e9fc74f89f)](https://standardforce.jp)
-*Click the image to visit our website!*
-
-*(**Note:** You need to replace the image URL above. See instructions below.)*
-
----
-
-## 🧑‍💻 Meet Our Team
-
-Meet the devs driving innovation at Standard Force!
-
-<a href="https://github.com/i-m-abbhay" title="i-m-abbhay" style="margin:10px;">
-  <img src="https://github.com/i-m-abbhay.png?size=60" width="60px" height="60px" alt="i-m-abbhay's avatar" style="border-radius: 50%; margin: 15px;">
-</a>
-<a href="https://github.com/ShivankarMehta" title="ShivankarMehta"  style="margin:10px;">
-  <img src="https://github.com/ShivankarMehta.png?size=60" width="60px" height="60px" alt="ShivankarMehta's avatar" style="border-radius: 50%; margin: 15px;">
-</a>
-*(Click on an avatar to visit their GitHub profile!)*
+- Website: [standardforce.jp](https://standardforce.jp)
+- Email: staff@standardforce.jp
+- Location: Ōmura City, Nagasaki, Japan
+- Established: September 2018
 
 ---
 
-## 🔗 Connect With Us
+## 🇯🇵 日本語
 
-* **Website:** [standardforce.jp](https://standardforce.jp)
-* **Location:** Ōmura City, Nagasaki Prefecture, Japan 🇯🇵
-* **Established:** September 2018
+長崎県大村市のテクノロジー企業。**2018年9月設立**。  
+建築業界の慣習・業務を標準化し、非効率を解消してバリューチェーン全体の最適化を目指します。
 
----
+### 経営陣
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gaku00010001">
+        <img src="https://github.com/gaku00010001.png?size=100" width="100" height="100" alt="原田 岳" style="border-radius:50%;" />
+      </a><br />
+      <b><a href="https://github.com/gaku00010001">原田 岳</a></b><br />
+      <sub>代表取締役社長<br />Gaku Harada</sub>
+    </td>
+  </tr>
+</table>
+
+### プロダクト
+
+| プロダクト | 概要 |
+| --- | --- |
+| **[Stance](https://standardforce.jp/stance-feature/)** | 建材流通向け販売・在庫管理ERP |
+| **[NOGAZO](https://standardforce.jp/)** | 脳科学アルゴリズムを用いた技能伝承教育アプリ |
+| **[COMACHi](https://standardforce.jp/comachi/)** | 建築業界向け次世代AI業務支援 |
+| **[InfraPulse](https://standardforce.jp/infrapulse/)** | インフラ監視・運用 |
+| **[AvCheck](https://standardforce.jp/avcheck/)** | セキュリティ／ウイルス対策チェック |
+| **HG Consulting** | 建材小売のDXコンサルティング |
+| **カスタム開発** | 建築業界向けオーダーメイドツール |
+
+### ビジョン
+
+木材・建材流通や中小工務店（川中）を支え、最終的に消費者が快適で適正価格の住まいを得られる社会へ。
+
+### チーム
+
+<a href="https://github.com/gaku00010001" title="原田 岳"><img src="https://github.com/gaku00010001.png?size=60" width="60" height="60" alt="gaku00010001" style="border-radius:50%; margin:8px;" /></a>
+<a href="https://github.com/i-m-abbhay" title="i-m-abbhay"><img src="https://github.com/i-m-abbhay.png?size=60" width="60" height="60" alt="i-m-abbhay" style="border-radius:50%; margin:8px;" /></a>
+<a href="https://github.com/ShivankarMehta" title="ShivankarMehta"><img src="https://github.com/ShivankarMehta.png?size=60" width="60" height="60" alt="ShivankarMehta" style="border-radius:50%; margin:8px;" /></a>
+
+### 連絡先
+
+- Web: [standardforce.jp](https://standardforce.jp)
+- Mail: staff@standardforce.jp
+- 所在地: 長崎県大村市
+- 設立: 2018年9月
